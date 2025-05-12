@@ -6,3 +6,6 @@
 | 일정 목록 조회 | `GET` | /api/schedules | 요청 param | 단건 응답 정보 | 200: 정상 조회 |
 | 일정 수정 | `PUT` | /api/schedules/{scheduleid} | 요청 body | 수정 정보 | 200: 정상 수정 |
 | 일정 삭제 | `DELETE` | /api/schedules/{scheduleid} | 요청 param | 삭제 정보 | 200: 정상 삭제 |
+
+# ERD
+![Image](https://github.com/user-attachments/assets/1796512a-8057-4c68-989b-97025047b1a3)
