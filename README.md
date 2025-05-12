@@ -8,4 +8,4 @@
 | 일정 삭제 | `DELETE` | /api/schedules/{scheduleid} | 요청 param | 삭제 정보 | 200: 정상 삭제 |
 
 # ERD
-![Image](https://github.com/user-attachments/assets/1796512a-8057-4c68-989b-97025047b1a3)
+![Image](https://github.com/user-attachments/assets/a1f1aca1-96aa-45a6-903b-43a37cbd7d22)
